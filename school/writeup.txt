@@ -1,0 +1,3 @@
+Easy point, use alphabetical substitution to translate the message
+
+zswGXU{ljwdhsqmags} => peaCTF{orangejuice}

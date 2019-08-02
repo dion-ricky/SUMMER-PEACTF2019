@@ -1,0 +1,6 @@
+Can you help Bob retrieve the two messages for a flag? Authenticated Channel Encrypted Channel
+
+    Convert decimal to hex.
+    Flag is in the format of peaCTF{plaintext_key}
+
+

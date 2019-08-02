@@ -1,0 +1,9 @@
+Extract the file. You will get inDesign file which is a PDF, open the pdf and
+follow the link on the pdf.
+
+Download the raw data from the link and now you have RTF file.
+
+Convert the RTF to HTML and open it in browser. The flag is what's visible, remove
+the space after '{'
+
+{wild_type}

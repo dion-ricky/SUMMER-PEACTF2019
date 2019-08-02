@@ -1,0 +1,3 @@
+Easy point, use chr to convert ASCII code to text
+
+peaCTF{4sc11isc00l}

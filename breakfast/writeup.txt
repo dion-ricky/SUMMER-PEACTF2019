@@ -1,0 +1,3 @@
+Use baconian cipher to decode the encrypted message.
+
+peaCTF{eggwaffles}

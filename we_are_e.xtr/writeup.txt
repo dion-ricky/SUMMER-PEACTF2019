@@ -1,0 +1,3 @@
+Change the file header from XTR to PNG
+
+{read_banned_it}
